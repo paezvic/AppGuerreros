@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Kenshiro",
+        "descripcion": "El sucesor del Hokuto Shinken, un arte marcial mortal en un mundo post-apocalíptico. Kenshiro es un hombre de pocas palabras, pero su corazón es tan fuerte como sus puños. Su misión es proteger a los inocentes y castigar a los malvados en una tierra devastada, utilizando su vasto conocimiento de técnicas secretas que pueden destruir a sus enemigos desde adentro.",
+        "vida": "90%",
+        "imagen": "https://static.zerochan.net/Kenshiro.%28Hokuto.no.Ken%29.full.3195424.jpg"
+    },
+    {
+        "nombre": "Holo",
+        "descripcion": "Una diosa loba que viaja con un comerciante para ver el mundo y recuperar su antiguo hogar. Holo, también conocida como la Sabia Loba de Yoitsu, es astuta y posee un vasto conocimiento sobre las antiguas tradiciones y el comercio. A pesar de su apariencia juvenil, es extremadamente sabia y usa su encanto y astucia para ayudar a su compañero Lawrence en sus tratos mercantiles.",
+        "vida": "85%",
+        "imagen": "https://www.waifu.com.mx/wp-content/uploads/2023/05/Holo-1.jpg"
+    },
+    {
+        "nombre": "Guts",
+        "descripcion": "Un guerrero mercenario con una gran espada, en busca de venganza contra su antiguo amigo y traidor. Guts, conocido como el Espadachín Negro, ha sobrevivido a innumerables batallas gracias a su fuerza y determinación inquebrantable. Su vida ha sido marcada por la traición y el sufrimiento, lo que lo ha convertido en un luchador implacable, impulsado por una sed de venganza que parece no tener fin.",
+        "vida": "75%",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    },
+    {
+        "nombre": "Clare",
+        "descripcion": "Una guerrera mitad humano, mitad yoma, que busca vengar la muerte de su mentora. Clare es una Claymore, una cazadora de demonios que lucha constantemente contra su naturaleza yoma. Motivada por un profundo deseo de venganza, su viaje está lleno de peligros y desafíos que la empujan al límite, todo mientras lucha por mantener su humanidad intacta.",
+        "vida": "80%",
+        "imagen": "https://m.media-amazon.com/images/I/61GLNYay9fL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "nombre": "Lina Inverse",
+        "descripcion": "Una poderosa hechicera con un amor por la comida y las aventuras, conocida por su capacidad destructiva. Lina Inverse es famosa por su personalidad vivaz y su increíble habilidad mágica. Aunque a menudo busca riquezas y emociones, también tiene un sentido de la justicia y está dispuesta a enfrentarse a grandes amenazas para proteger a los inocentes, incluso si sus métodos a veces resultan en una destrucción masiva.",
+        "vida": "85%",
+        "imagen": "https://steamuserimages-a.akamaihd.net/ugc/267211594254028850/CD3F94AC2B7922B0366C715455C2BA4805F9151A/?imw=512&imh=384&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+        "nombre": "Ryo Saeba",
+        "descripcion": "Un detective privado y francotirador que trabaja en Tokio, conocido por su impecable puntería. Ryo Saeba es el corazón de City Hunter, un hombre con habilidades de combate excepcionales y un agudo sentido del humor. Aunque a menudo se muestra despreocupado y coquetea con las mujeres, cuando se trata de su trabajo, es serio y eficiente, dedicando sus esfuerzos a resolver casos difíciles y proteger a sus clientes.",
+        "vida": "75%",
+        "imagen": "https://static.wikia.nocookie.net/tamagotchifanon/images/f/f8/Ryo_Saeba.png/revision/latest?cb=20190705223402"
+    },
+    {
+        "nombre": "Revy",
+        "descripcion": "Una mercenaria experta en combate con armas de fuego, conocida por su actitud temeraria y su habilidad en el combate. Revy, apodada Two Hands, es una mujer peligrosa con un pasado sombrío y una inclinación por la violencia. Sus habilidades con las armas la convierten en una aliada invaluable y una adversaria temida. A pesar de su actitud dura, hay momentos en los que su lado más humano se asoma, mostrando una complejidad detrás de su fachada implacable.",
+        "vida": "70%",
+        "imagen": "https://static.wikia.nocookie.net/lagooncompany/images/2/2e/Revygun.png/revision/latest/scale-to-width-down/1200?cb=20210403163109"
+    },
+    {
+        "nombre": "Nausicaä",
+        "descripcion": "Una princesa que lucha por proteger su valle y la naturaleza de la guerra y la contaminación. Nausicaä es una líder compasiva y valiente, dispuesta a arriesgar su vida para salvar su hogar y la naturaleza. Su conexión con los animales y su capacidad para comprender el mundo natural le permiten buscar soluciones pacíficas a los conflictos, en un mundo donde la guerra y la destrucción son comunes.",
+        "vida": "90%",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDuFLmKfK1HQAlWSn0VDayAE7vv-wqdpwNQ&s"
+    },
+    {
+        "nombre": "Shinichi Izumi",
+        "descripcion": "Un joven que forma una simbiosis con un parásito alienígena que se apodera de su mano derecha. Shinichi lucha por mantener su humanidad mientras enfrenta amenazas tanto humanas como alienígenas. Su relación con el parásito, llamado Migi, lo obliga a cuestionar la naturaleza de la vida y su lugar en el mundo, mientras ambos aprenden a confiar y depender uno del otro para sobrevivir.",
+        "vida": "80%",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-2d1239618b9e1f3dc78eb71478967f83-lq"
+    },
+    {
+        "nombre": "Yoko Littner",
+        "descripcion": "Una luchadora experta en armas de fuego que se une a la lucha contra el gobierno tiránico de Lordgenome. Yoko es una guerrera valiente y determinada, con habilidades excepcionales en el combate. A pesar de las duras batallas y las pérdidas personales, mantiene un espíritu indomable y una dedicación inquebrantable para liberar a su gente de la opresión y construir un futuro mejor.",
+        "vida": "75%",
+        "imagen": "https://cdnb.artstation.com/p/assets/images/images/027/234/137/large/ranveld-yokoredraw-1280.jpg?1590969177"
+    }
+]
